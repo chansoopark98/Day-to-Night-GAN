@@ -3,8 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 test/day
-test/imageAlignedLD/
-test/night
+data_preprocess/imageAlignedLD/
+data_preprocess/night
+data_preprocess/day
 # C extensions
 *.so
 
