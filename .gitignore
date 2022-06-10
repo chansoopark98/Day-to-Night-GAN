@@ -5,7 +5,9 @@ __pycache__/
 test/day
 data_preprocess/imageAlignedLD/
 data_preprocess/night
-data_preprocess/day
+data_preprocess/rgb
+data_preprocess/label
+datasets/
 # C extensions
 *.so
 
